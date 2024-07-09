@@ -176,65 +176,93 @@ src
 * 프로필/채널 관리
   <table>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/574ac850-5073-42bb-a749-21349011c439" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/9dcb2e09-a271-4be5-9b72-78b8f6c0c9af" width="100%" />
+      </td>
     </tr>
   </table>
 
 * 스트리밍(방 생성/스트리머 방송 화면)
   <table>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/3926be81-85a6-4e57-bfc0-9c34c887e9d3" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/1dd47917-4feb-46dd-87d7-3a8186a7c1f3" width="100%" />
+      </td>
     </tr>
   </table>
 
 * 스트리밍 시청(시청자 화면/채팅/후원)
   <table>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/3d67fd9a-fbb5-4e12-b006-c082ef0509f6" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/f2adbf54-10b2-4bd3-892c-8619f17637a9" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/cf5dbda6-0609-43d7-9ec2-b6afed63ed14" width="100%" />
+      </td>
     </tr>
   </table>
 
 * 방송 화면 설정/녹화 영상
   <table>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/04c57025-7a2c-4d07-8099-ff9a47911d87" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/c1fcaab7-58bc-46a6-ad50-957922755f4b" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/1b5b6436-5bc7-4e82-8259-cac1bfc44ce8" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/cf248684-4222-4124-9983-44cb127ce65e" width="100%" />
+      </td>
     </tr>
   </table>
 
 * 초코 후원
   <table>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/d8c1a8aa-5735-4734-860c-f8d4b29eca0e" width="100%" />     
+      </td>
     </tr>
   </table>
 
 * 대시보드/통계
   <table>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/82129da5-fc09-4ecc-9153-bb8d9f374771" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/3ee2eede-99fa-4193-b2f3-7c6101f1ce23" width="100%" />
+      </td>
     </tr>
   </table>
