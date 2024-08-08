@@ -166,10 +166,14 @@ src
 * 메인/검색
   <table>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/82b1d663-1f9d-4385-b45c-df29010ebc76" width="100%" />
+      </td>
     </tr>
     <tr>
+      <td>
         <img src="https://github.com/TEAM-Ving/FE/assets/124110711/a962d7de-9037-4e7f-b87f-2708ee988752" width="100%" />
+      </td>
     </tr>
   </table>
 
